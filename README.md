@@ -1,3 +1,5 @@
+# Deprecated - [See here for new build script](https://github.com/Zackptg5/Curl-and-Aria2-For-Android)
+
 # curl-boringssl-android
 
 Compiles curl (and dependencies ) for Android
