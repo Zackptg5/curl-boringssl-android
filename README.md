@@ -1,4 +1,4 @@
-# Deprecated - [See here for new build script](https://github.com/Zackptg5/Curl-and-Aria2-For-Android)
+# Deprecated - [See here for new build script](https://github.com/Zackptg5/Cross-Compiled-Binaries-Android/tree/master/build_script)
 
 # curl-boringssl-android
 
